@@ -26,14 +26,17 @@
         />
         <p class="text-center">CSS</p>
       </div>
-      <!-- <div>
-        <img src="../assets/img/javascript.svg" alt="Imagem Logo JavaScript" />
+      <div>
+        <img
+          src="../assets/img/javascript-yellow.png"
+          alt="Imagem Logo JavaScript"
+        />
         <p class="text-center">JavaScript</p>
-      </div> -->
+      </div>
       <div>
         <img
           class="w-52"
-          src="../assets/img/react-icon.svg"
+          src="../assets/img/react-js-hd.png"
           alt="Imagem Logo React-Js"
         />
         <p class="text-center">React-Js</p>
