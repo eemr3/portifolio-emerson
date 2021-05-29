@@ -10,32 +10,49 @@
     <div
       class="grid lg:grid-cols-5 mt-9 max-w-4xl m-auto gap-y-20 gap-x-8 items-center"
     >
-      <div>
+      <div class="flex flex-col items-center">
         <img
-          src="../assets/html.png"
+          src="../assets/img/html.png"
           alt="Imagem Logo HTML"
           class="w-32 h-40"
         />
+        <p class="text-center">HTML</p>
       </div>
-      <div class="w-40 h-44">
-        <img src="../assets/css.png" alt="Imagem Logo CSS" class="w-32 h-40" />
+      <div class="flex flex-col items-center">
+        <img
+          src="../assets/img/css.png"
+          alt="Imagem Logo CSS"
+          class="w-32 h-40"
+        />
+        <p class="text-center">CSS</p>
       </div>
       <div>
-        <img src="../assets/javascript.svg" alt="Imagem Logo JavaScript" />
+        <img src="../assets/img/javascript.svg" alt="Imagem Logo JavaScript" />
+        <p class="text-center">JavaScript</p>
       </div>
       <div>
         <img
-          class="w-52 h-56"
-          src="../assets/react-icon.svg"
+          class="w-52"
+          src="../assets/img/react-icon.svg"
           alt="Imagem Logo React-Js"
         />
+        <p class="text-center">React-Js</p>
       </div>
       <div class="w-28 h-32">
         <img
-          src="../assets/vuejs.png"
+          src="../assets/img/vuejs.png"
           alt="Imagem Logo Vue-Js"
           class="w-28 h-32"
         />
+        <p class="text-center">Vue-Js</p>
+      </div>
+      <div class="w-28 h-32">
+        <img
+          src="../assets/img/octocat.png"
+          alt="Imagem Logo Vue-Js"
+          class="w-28 h-32"
+        />
+        <p class="text-center">Git/Github</p>
       </div>
     </div>
   </section>
