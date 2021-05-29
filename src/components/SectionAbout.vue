@@ -44,13 +44,16 @@
                 href="https://www.linkedin.com/in/emerson-moreira/"
                 target="_blank"
               >
-                <i class="fab fa-linkedin"></i
-              ></a>
+                <font-awesome-icon class="icon" :icon="['fab', 'linkedin']" />
+              </a>
             </li>
             <li class="text-3xl">
               <a href="https://github.com/eemr3" target="_blank">
-                <i class="fab fa-github-square"></i
-              ></a>
+                <font-awesome-icon
+                  class="icon"
+                  :icon="['fab', 'github-square']"
+                />
+              </a>
             </li>
           </ul>
         </div>

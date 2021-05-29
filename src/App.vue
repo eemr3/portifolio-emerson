@@ -1,9 +1,5 @@
 <template>
   <div>
-    <link
-      rel="stylesheet"
-      href="node_modules/@fortawesome/fontawesome-free/css/all.css"
-    />
     <nav-bar />
     <Header />
     <section-about />
@@ -19,7 +15,6 @@ import NavBar from "./components/NavBar.vue";
 import SectionAbout from "./components/SectionAbout.vue";
 import SectionSkills from "./components/SectionSkills.vue";
 import SectionProject from "./components/SectionProject.vue";
-
 import SectionFooter from "./components/SectionFooter.vue";
 
 export default {
