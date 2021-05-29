@@ -26,10 +26,10 @@
         />
         <p class="text-center">CSS</p>
       </div>
-      <div>
+      <!-- <div>
         <img src="../assets/img/javascript.svg" alt="Imagem Logo JavaScript" />
         <p class="text-center">JavaScript</p>
-      </div>
+      </div> -->
       <div>
         <img
           class="w-52"
