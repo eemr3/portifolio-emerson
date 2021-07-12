@@ -16,7 +16,18 @@
         </div>
       </div>
       <div
-        class="flex flex-col items-center justify-center lg:grid grid-cols-2 gap-56 mt-8 sm:ml-6 lg:max-w-5xl lg:m-auto"
+        class="
+          flex flex-col
+          items-center
+          justify-center
+          lg:grid
+          grid-cols-2
+          gap-56
+          mt-8
+          sm:ml-6
+          lg:max-w-5xl
+          lg:m-auto
+        "
       >
         <div>
           <p class="font-bold mb-4">QUEM SOU EU ?</p>
@@ -47,12 +58,20 @@
                 <font-awesome-icon class="icon" :icon="['fab', 'linkedin']" />
               </a>
             </li>
-            <li class="text-3xl">
+            <li class="text-3xl mr-3">
               <a href="https://github.com/eemr3" target="_blank">
                 <font-awesome-icon
                   class="icon"
                   :icon="['fab', 'github-square']"
                 />
+              </a>
+            </li>
+            <li class="text-3xl">
+              <a
+                href="https://app.rocketseat.com.br/me/emerson-moreira-1566533806"
+                target="_blank"
+              >
+                <font-awesome-icon class="icon" :icon="['fas', 'rocket']" />
               </a>
             </li>
           </ul>
